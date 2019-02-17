@@ -1,0 +1,15 @@
+Repository "Repo" is the place where you can save the file and change the file.
+
+Commit your files means save your files.
+
+(main linear list of commits) by default as "master" in a master branch
+-> . -> . ->. 
+
+What if you have a experimental try to add for the file. Not sure if I want to keep it.
+
+
+                    >. (fairies)
+                  /
+-> . -> . ->. -> . ->
+             \
+               > . ->. (unicorn)
