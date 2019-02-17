@@ -17,3 +17,6 @@ When you try to update the unicorn branch to a master branch.
 pull request, pull something in from somebody
 push request, send something to somebody
 merge
+
+If you have merge conflict, edit the files and delete from <<<<<<  ====== and >>>>>>>>, to see which line you want to use.
+Complete the desired file and mark as resolved.
