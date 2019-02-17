@@ -1,11 +1,11 @@
-Repository "Repo" is the place where you can save the file and change the file.
+1.) Repository "Repo" is the place where you can save the file and change the file.
 
 Commit your files means save your files.
 
 (main linear list of commits) by default as "master" in a master branch
 -> . -> . ->. 
 
-What if you have a experimental try to add for the file. Not sure if I want to keep it.
+2.) What if you have a experimental try to add for the file. Not sure if I want to keep it.
 
                     >. (fairies)
                   /
@@ -14,9 +14,14 @@ What if you have a experimental try to add for the file. Not sure if I want to k
                > . ->(unicorn)
 
 When you try to update the unicorn branch to a master branch.
-pull request, pull something in from somebody
-push request, send something to somebody
-merge
+-pull request, pull something in from somebody O <---pull---- O 
+-push request, send something to somebody O ---push----> O 
+-merge
 
-If you have merge conflict, edit the files and delete from <<<<<<  ====== and >>>>>>>>, to see which line you want to use.
+3.) If you have merge conflict, edit the files and delete from <<<<<<  ====== and >>>>>>>>, to see which line you want to use.
 Complete the desired file and mark as resolved.
+
+
+4.) To contribute your code to someone sourcecode
+-Fork, fork a repo you can just copy the entire someone repo with all history commit and make it into your account.
+-pull request, if you have a particular branch that you really like, you can pull request to that original owner of the repository.
